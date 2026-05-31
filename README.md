@@ -8,8 +8,7 @@ Interested in Software Development, Frontend Development, Cyber Security & QA âœ
 Passionate about building creative and user-friendly digital experiences ðŸŽ€
 </em></p>
 
-[![Linkedin: hibazawati](https://img.shields.io/badge/-hibazawati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hibazawati/)](https://www.linkedin.com/in/hibazawati/)
-[![GitHub Hiba](https://img.shields.io/github/followers/YOUR_USERNAME?label=follow&style=social)](https://github.com/YOUR_USERNAME)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
